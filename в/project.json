@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Microsoft.AspNet.Mvc": "5.2.3",
+    "Moq": "4.7.10",
+    "NETStandard.Library": "1.6.1",
+    "Ninject": "3.2.2",
+    "Ninject.MVC5": "3.2.1"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
